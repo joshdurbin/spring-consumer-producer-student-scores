@@ -1,0 +1,3 @@
+scores:
+  provider:
+    endpoint: http://live-test-scores.herokuapp.com/scores
