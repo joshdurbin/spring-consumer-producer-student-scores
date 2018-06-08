@@ -3,7 +3,7 @@
 This Java 8 / Spring-based app integrates with the SSE event stream and stores the data
 per the instructions in the initial README.
 
-[![CircleCI](https://circleci.com/gh/joshdurbin/spring-consumer-producer-student-scores.svg?style=svg)](https://circleci.com/gh/joshdurbin/spring-consumer-producer-student-scores)
+[![CircleCI](https://circleci.com/gh/joshdurbin/spring-consumer-student-scores.svg?style=svg)](https://circleci.com/gh/joshdurbin/spring-consumer-student-scores)
 
 ## Setup
 

@@ -56,6 +56,6 @@ docker {
     maintainer = 'Josh Durbin "durbinjo593@gmail.com"'
     port = 5050
     baseImage = 'anapsix/alpine-java:8_server-jre'
-    tag = "joshdurbin/spring-consumer-producer-student-scores:latest"
+    tag = "joshdurbin/spring-consumer-student-scores:latest"
   }
 }
